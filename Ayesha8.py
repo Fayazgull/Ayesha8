@@ -246,7 +246,7 @@ def dynamic(text):
         sys.stdout.flush();time.sleep(1) 
  
 #User agents
-ugen2=['Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.79 Mobile Safari/537.36
+ugen2=['Mozilla/5.0 (Linux; Android 10; SM-G970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3396.81 Mobile Safari/537.36 (KHTML, like Gecko) Chrome/75.0.3396.81 Mobile Safari/537.36;]']
 ugen=['Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]']
  
 for xd in range(10000):
